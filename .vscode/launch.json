@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IphoneTeste",
+            "request": "launch",
+            "mainClass": "funcionalidadeDoIphone.IphoneTeste",
+            "projectName": "desafio-iphone_fffa0da3"
+        },
+        {
+            "type": "java",
             "name": "IphoneAtualizado",
             "request": "launch",
             "mainClass": "funcionalidadeDoIphone.IphoneAtualizado",
