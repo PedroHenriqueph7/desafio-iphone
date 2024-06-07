@@ -1,8 +1,8 @@
-package estabelecimento;
+package funcionalidadeDoIphone;
 
 import iphone.Iphone;
 
-public class loja {
+public class IphoneAtualizado {
     public static void main(String[] args) {
         Iphone iphone = new Iphone();
 
