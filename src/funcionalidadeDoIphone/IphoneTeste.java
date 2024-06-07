@@ -2,7 +2,7 @@ package funcionalidadeDoIphone;
 
 import iphone.Iphone;
 
-public class IphoneAtualizado {
+public class IphoneTeste {
     public static void main(String[] args) {
         Iphone iphone = new Iphone();
 
